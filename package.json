@@ -1,0 +1,23 @@
+{
+  "name": "freemarker-view",
+  "version": "0.0.1",
+  "description": "freemarker layout support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "iconv-lite": "*"
+  },
+  "keywords": [
+    "freemaker",
+    "layout"
+  ],
+  "author": {
+    "name": "jaxchow"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "freemarker-view@0.0.1",
+  "_from": "freemarker-view@"
+}
