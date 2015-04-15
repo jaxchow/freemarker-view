@@ -1,6 +1,6 @@
 {
   "name": "freemarker-view",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "freemarker layout support",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,15 @@
     "freemaker",
     "layout"
   ],
-  "author": {
-    "name": "jaxchow"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaxchow/freemarker-view"
   },
+  "author": "jaxchow <jaxchow@gmail.com>",
   "license": "ISC",
-  "readme": "ERROR: No README data found!",
-  "_id": "freemarker-view@0.0.1",
-  "_from": "freemarker-view@"
+  "_from": "freemarker-view@",
+  "bugs": {
+    "url": "https://github.com/jaxchow/freemarker-view/issues"
+  },
+  "homepage": "https://github.com/jaxchow/freemarker-view"
 }
